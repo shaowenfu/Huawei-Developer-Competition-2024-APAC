@@ -28,7 +28,7 @@ A --> C[Path Planning]
 B --> D[Task Assignment]
 B --> E[Parameter Optimization]
 C --> F[A Search]
-
+```
 
 ## Core Components
 
